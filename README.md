@@ -1,2 +1,0 @@
-# SproutIT
-Responsive event boilerplate
